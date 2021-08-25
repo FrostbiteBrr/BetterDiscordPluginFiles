@@ -1,0 +1,12 @@
+{
+	"general": {
+		"addContextMenu": true,
+		"targetMessages": true,
+		"targetStatuses": true,
+		"targetOwn": true
+	},
+	"replaces": {
+		"blocked": "~~BLOCKED~~",
+		"censored": "$!%&%!&"
+	}
+}
